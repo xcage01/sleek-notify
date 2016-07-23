@@ -1,0 +1,24 @@
+{
+  "name": "sleek-notify",
+  "homepage": "https://github.com/xcage01/sleek-notify",
+  "authors": [
+    "xander cage <xcage01@hotmail.com>"
+  ],
+  "description": "A sleek javascript notification library for the web",
+  "main": "./sleek-notify.js",
+  "keywords": [
+    "notifications"
+  ],
+  "license": "MIT",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/xcage01/sleek-notify.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
